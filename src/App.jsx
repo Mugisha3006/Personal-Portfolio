@@ -64,7 +64,7 @@ function App() {
         <div>
           <h3 className="font-bold text-xl">A Movie Ranking Platform </h3>
           <img src="./src/images/movie-ranking-platform.png" alt="A Movie Ranking Platform" className=""/>
-          <p>In this site, I try to use my knowledge of HTML and CSS to come up with a beautifully styled movie Ranking site that is responsive to mobile devices.</p>
+          <p>In this site, I try to use my knowledge of javascript, react js, tailwind css and HTML to come up with a beautifully styled movie Ranking site that is responsive to mobile devices.</p>
         </div>
         <div>
           <h3 className="font-bold text-xl">ToDo-List app</h3>

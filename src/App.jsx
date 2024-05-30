@@ -82,7 +82,7 @@ function App() {
         </div>
         <p>Built With Atmost Passion By:</p>
         <p>MUGISHA MUHAMMAD</p>
-        <span>@2024</span>
+        <p>© Portfolio {new Date().getFullYear()}</p>
       </footer>
     </div>
 
